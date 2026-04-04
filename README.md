@@ -1,6 +1,4 @@
 # 💻 PC Sales SQL Project
----
-
 ## 📌 Project Overview
 
 This project focuses on exploring and analysing a **PC Sales dataset** using SQL Server. The dataset contains sales records from a retail PC business operating across multiple continents, countries, and sales channels.
